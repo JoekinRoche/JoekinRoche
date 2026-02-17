@@ -11,10 +11,9 @@ I am a dedicated Developer currently working at **Jio Financial Services**. My e
 ## 🛠️ Key Skills & Technologies
 
 - **Zoho Suite:** Zoho CRM, Zoho Desk, Zoho Survey, Zoho Analytics
-- **Languages & Frameworks:** JavaScript, ReactJS, Node.js
+- **Languages & Frameworks:** Python, JavaScript, ReactJS, FastAPI, Flask
 - **APIs & Integrations:** REST APIs, Webhooks, JSON, API integrations
-- **Full-Stack:** MERN 
-- **Databases:** MySQL, MongoDB (SQL & NoSQL)
+- **Databases:** MySQL, PostGres , MongoDB (SQL & NoSQL)
 
 ---
 
